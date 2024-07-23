@@ -1,0 +1,10 @@
+header {
+    text-align: center;
+  }
+  header img {
+    max-width: 100px;
+  }
+  header h1 {
+    color: red;
+  }
+  

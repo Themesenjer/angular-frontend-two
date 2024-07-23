@@ -1,0 +1,31 @@
+.registro-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    color: green;
+  }
+  
+  input {
+    background-color: white;
+  }
+  
+  button {
+    background-color: green;
+    color: white;
+  }
+  
+  a {
+    color: blue;
+    cursor: pointer;
+  }
+  
